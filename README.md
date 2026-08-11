@@ -34,8 +34,8 @@ The raw dataset contains implausible heights, weights, and blood-pressure readin
 The lesson is not that the model is ready for care. It is that **data quality changes what a model can learn**: removing clear measurement errors makes the signal in blood pressure and related features substantially more interpretable.
 
 <div align="center">
-  <img src="assets/cleaned-roc-curve.svg" alt="ROC curve for the cleaned logistic-regression model, AUC 0.80" width="48%" />
-  <img src="assets/cleaned-correlation-matrix.svg" alt="Correlation matrix after full cleaning" width="48%" />
+  <img src="cleaned-roc-curve.svg" alt="ROC curve for the cleaned logistic-regression model, AUC 0.80" width="48%" />
+  <img src="cleaned-correlation-matrix.svg" alt="Correlation matrix after full cleaning" width="48%" />
 </div>
 
 ---
